@@ -5,7 +5,7 @@ Changing style of checkbox with css3
 [Watch DEMO](http://anton.temchenko.com.ua/dev/css-checkbox.html)
 
 # Code
-`
+```
 <html>
 	<head>
 		<style>
@@ -73,4 +73,5 @@ Changing style of checkbox with css3
     <input id="1" type="checkbox"/>
     <label for="1">label 1</label>
 	</body>
-</html>`
+</html>
+```
