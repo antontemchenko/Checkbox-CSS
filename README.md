@@ -72,8 +72,8 @@ Changing style of checkbox with css3
 		</style>
 	</head>
 	<body>
-    <input id="1" type="checkbox"/>
-    <label for="1">label 1</label>
+	    <input id="1" type="checkbox"/>
+	    <label for="1">label 1</label>
 	</body>
 </html>
 ```
