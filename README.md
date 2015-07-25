@@ -1,7 +1,7 @@
 # Checkbox-CSS
 Changing style of checkbox with css3
 
-# Demo
+# Example
 ![checkbox-css](https://github.com/antontemchenko/Checkbox-CSS/blob/master/css-checkbox.png)
 
 [Watch DEMO](http://anton.temchenko.com.ua/dev/css-checkbox.html)
