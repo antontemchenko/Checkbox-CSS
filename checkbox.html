@@ -69,7 +69,15 @@
 			  background: -o-linear-gradient(#E5FFE4, #3BEE3B);
 			  background: linear-gradient(#E5FFE4, #3BEE3B);
 			}
-
+			
+			input[type="checkbox"]:checked:active + label:before, input[type="checkbox"]:active + label:before {
+			  background: -webkit-linear-gradient(#97B2D3, #25446E);
+			  background: -moz-linear-gradient(#97B2D3, #25446E);
+			  background: -ms-linear-gradient(#97B2D3, #25446E);
+			  background: -o-linear-gradient(#97B2D3, #25446E);
+			  background: linear-gradient(#97B2D3, #25446E);
+			}
+			
 			input[type="checkbox"] + label:after {
 			    content: '';
 			    display: none;
@@ -90,6 +98,7 @@
 			input[type="checkbox"]:checked + label:after {
 			    display: block;
 			}
+			
 		</style>
 	</head>
 	<body>
